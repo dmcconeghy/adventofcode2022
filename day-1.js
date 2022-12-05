@@ -1,5 +1,6 @@
 /*
-* Find the maximum sum of a subarray of integers. 
+* Find the maximum sum of a subarray of integers.
+* Find the top three sums of subarrays of integers.
 */
 
 const fs = require('fs');
